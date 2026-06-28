@@ -151,7 +151,6 @@ Mobile-Product-Segmentation/
 │
 ├── app.py                         # MobiSense AI — Streamlit web application (39KB)
 ├── Project4.ipynb                 # Main notebook: EDA, preprocessing, clustering, recommendation
-├── visualizer.py                  # Visualisation utilities
 ├── requirements.txt               # Python dependencies
 └── README.md                      # This file
 ```
